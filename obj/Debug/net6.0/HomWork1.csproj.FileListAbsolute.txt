@@ -1,0 +1,15 @@
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\HomWork1.csproj.AssemblyReference.cache
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\HomWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\HomWork1.AssemblyInfoInputs.cache
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\HomWork1.AssemblyInfo.cs
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\HomWork1.csproj.CoreCompileInputs.cache
+C:\Users\lovem\HomWork1\bin\Debug\net6.0\HomWork1.exe
+C:\Users\lovem\HomWork1\bin\Debug\net6.0\HomWork1.deps.json
+C:\Users\lovem\HomWork1\bin\Debug\net6.0\HomWork1.runtimeconfig.json
+C:\Users\lovem\HomWork1\bin\Debug\net6.0\HomWork1.dll
+C:\Users\lovem\HomWork1\bin\Debug\net6.0\HomWork1.pdb
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\HomWork1.dll
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\refint\HomWork1.dll
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\HomWork1.pdb
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\HomWork1.genruntimeconfig.cache
+C:\Users\lovem\HomWork1\obj\Debug\net6.0\ref\HomWork1.dll
